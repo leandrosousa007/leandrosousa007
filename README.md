@@ -10,8 +10,7 @@
 ### 🔗 Links Úteis
 
 - **Meu Portfólio** → [Acesse aqui para ver minhas experiências e projetos.](https://leandrosousa007.github.io/PortfolioProfissional/)
-- **Projeto 1: CompartiLar** → [Sistema para ajudar universitários a encontrar moradia.](URL_DO_SEU_PROJETO_AQUI)
-- **Projeto 2: Museu Virtual UFU** → [Revitalização do site do Museu Virtual da UFU.](URL_DO_SEU_PROJETO_AQUI)
+
 
 ---
 
@@ -19,7 +18,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,haskell,html,css,react,postgres,git" />
+    <img src="https://skillicons.dev/icons?i=java,js,c,haskell,html,css,react,postgres,git" />
   </a>
 </div>
 
