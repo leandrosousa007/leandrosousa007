@@ -9,7 +9,7 @@
 
 ### 🔗 Links Úteis
 
-- **Meu Portfólio** → [Acesse aqui para ver minhas experiências e projetos.](https://leandrosousa007.github.io/PortfolioProfissional/)
+- **Meu Portfólio** → [Acesse aqui para ver minhas experiências e projetos.](https://leandroes-portfolio.vercel.app/)
 
 
 ---
